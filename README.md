@@ -1,6 +1,6 @@
 <div align="center">
 
-![ASHUTOSH DIXIT](./blur-text-name.svg)
+![ASHUTOSH DIXIT](./name-mask.svg)
 
 </div>
 
@@ -55,51 +55,80 @@ During my internship with the **Cyber Police**, I gained hands-on exposure to cy
 ### 🌐 Web Development
 
 **Frontend**
-`[TECHNOLOGIES]`
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
-`[TECHNOLOGIES]`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Database**
-`[TECHNOLOGIES]`
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **APIs**
-`[TECHNOLOGIES]`
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
 ### 🔐 Cybersecurity
 
 **Security Tools**
-`[SECURITY TOOLS]`
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 **Security Technologies**
-`[SECURITY TECHNOLOGIES]`
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Python / Security Libraries**
-`[PYTHON / SECURITY LIBRARIES]`
+
+![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Cybersecurity Skills**
-`[CYBERSECURITY SKILLS]`
+
+`Network Security` · `Vulnerability Assessment` · `Digital Forensics` · `Cybercrime Investigation` · `Ethical Hacking`
 
 <br>
 
 ### ☁️ DevOps
 
 **Containers**
-`[DOCKER / CONTAINER TOOLS]`
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **CI/CD**
-`[CI/CD TOOLS]`
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Cloud**
-`[CLOUD PLATFORMS]`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Deployment**
-`[DEPLOYMENT TOOLS]`
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 **Version Control**
-`[GIT / GITHUB TOOLS]`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
@@ -150,8 +179,6 @@ Published research on **BadUSB**, exploring its mechanisms and security implicat
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Tech Channel](https://img.shields.io/badge/LinkedIn%20Channel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-`[LINKEDIN URL]` · `[GMAIL / EMAIL ADDRESS]` · `[PORTFOLIO URL]` · `[LINKEDIN CHANNEL URL]`
-
 </div>
 
 <br>
@@ -177,6 +204,6 @@ Published research on **BadUSB**, exploring its mechanisms and security implicat
 
 <div align="center">
 
-**Built with ❤️ and curiosity.**
+**Built with ❤️ and curiosity by Ashutosh dixit.**
 
 </div>
