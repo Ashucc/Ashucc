@@ -1,0 +1,26 @@
+<svg width="700" height="160" viewBox="0 0 700 160" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>ASHUTOSH DIXIT</title>
+
+  <defs>
+    <clipPath id="textClip">
+      <text x="10" y="110" font-family="'Courier New', monospace" font-weight="700" font-size="62" letter-spacing="1">ASHUTOSH DIXIT</text>
+    </clipPath>
+
+    <mask id="wipeMask">
+      <rect x="0" y="0" width="0" height="160" fill="#ffffff">
+        <animate attributeName="width" values="0;700" dur="1.4s" begin="0s"
+          fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.46 0.45 0.94"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- faint outline so the shape is visible before the wipe reaches it -->
+  <text x="10" y="110" font-family="'Courier New', monospace" font-weight="700" font-size="62"
+        letter-spacing="1" fill="none" stroke="#00ff66" stroke-width="0.8" opacity="0.3">
+    ASHUTOSH DIXIT
+  </text>
+
+  <g clip-path="url(#textClip)" mask="url(#wipeMask)">
+    <image href="./terminal-bg.png" x="0" y="-25" width="700" height="210" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+</svg>
