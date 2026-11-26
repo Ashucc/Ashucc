@@ -16,13 +16,17 @@ I'm currently pursuing a **B.Tech in Cybersecurity**, working at the intersectio
 
 - 🌐 **Web Development**
 - 🔐 **Cybersecurity**
-- ☁️ **DevOps**
+- ✨ **Artificial Intelligence**
 
 I'm especially interested in bringing **Artificial Intelligence** into each of these — building web platforms, security tooling, and DevOps pipelines that are smarter, not just functional. My goal is simple: build technology that is **practical, intelligent, secure, and scalable**.
 
 </td>
 </tr>
 </table>
+
+## 🧠 AI Challenge Journey
+
+I'm beginning a hands-on journey through AI challenges, exploring how intelligent systems are designed, built, and applied to practical problems. This section will grow as I learn, experiment, and document each challenge.
 
 <div align="center">
 
