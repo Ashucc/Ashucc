@@ -24,15 +24,19 @@ I'm especially interested in bringing **Artificial Intelligence** into each of t
 </tr>
 </table>
 
-## 🧠 AI Challenge Journey
+## 🚀 30 Days · 30 AI Projects
 
-I'm beginning a hands-on journey through AI challenges, exploring how intelligent systems are designed, built, and applied to practical problems. This section will grow as I learn, experiment, and document each challenge.
+I'm taking on a focused 30-day challenge to build **30 practical AI projects**. Each day, I will explore a new idea, tool, or technique and turn it into a working project.
 
-<div align="center">
+This challenge is designed to strengthen my understanding of:
 
-> *"Technology evolves because engineers refuse to accept today's limitations as tomorrow's reality."*
+- AI and machine learning fundamentals
+- Prompt engineering and generative AI
+- AI-powered web applications and automation
+- Practical problem-solving through hands-on development
+- Responsible, secure, and user-focused AI solutions
 
-</div>
+I'll document the progress, lessons learned, and outcomes from each project as I build. The goal is to learn by creating consistently and transform ideas into useful, working prototypes.
 
 <br>
 
