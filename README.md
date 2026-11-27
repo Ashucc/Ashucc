@@ -1,6 +1,6 @@
 <div align="center">
 
-![ASHUTOSH DIXIT](./tech-text.svg)
+![ASHUTOSH DIXIT — green particle animation](./particle-name.svg)
 
 </div>
 
@@ -24,25 +24,25 @@ My goal is simple: build technology that is **practical, intelligent, secure, an
 </tr>
 </table>
 
-## 🚀 30 Days · 30 AI Projects
+## 🚀 Project-ELIZA · 30 Days · 30 AI Projects
 
-I'm taking on a focused 30-day challenge to build **30 practical AI projects**. Each day, I will explore a new idea, tool, or technique and turn it into a working project.
+![Project-ELIZA — decrypted text animation](./project-eliza.svg)
 
-This challenge is designed to strengthen my understanding of:
-
-- AI and machine learning fundamentals
-- Prompt engineering and generative AI
-- AI-powered web applications and automation
-- Practical problem-solving through hands-on development
-- Responsible, secure, and user-focused AI solutions
-
-I'll document the progress, lessons learned, and outcomes from each project as I build. The goal is to learn by creating consistently and transform ideas into useful, working prototypes.
+**One day. One AI project.** Project-ELIZA is my 30-day challenge to build 30 practical AI projects, sharing the code, experiments, and lessons learned along the way.
 
 <br>
 
 ---
 
 ## 💼 Experience
+
+### 💻 Fullstack Developer — Gremio Technologies
+
+I'm working as the solo developer on **LMS, EMS, and ERP** applications, handling both frontend and backend development. I've also worked on **AI integration in EMS**.
+
+### 🐍 Python Developer — Yash Industries
+
+Developed my skills in **Python**, learning and working with tools and frameworks including **Django, PyTorch, and PyWin**.
 
 ### 🚓 Cyber Police Internship
 `[INTERNSHIP DURATION]` · `[LOCATION / DEPARTMENT]`
@@ -53,6 +53,7 @@ During my internship with the **Cyber Police**, I gained hands-on exposure to cy
 
 - 🖼️ **Selfie-Based Attendance Marker** — Worked on a selfie-based attendance marking system as part of internal process improvement, applying practical technical problem-solving to a real operational need.
 - 💰 **Financial Recovery Assistance** — Assisted in a case that led to the successful recovery of approximately **₹56,000** for an affected individual.
+- 🛡️ **Operation Thunder** — Participated as an active member in Operation Thunder, an anti-drug operation.
 
 <br>
 
