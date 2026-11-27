@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Ashutosh Dixit</title>
+  <desc id="desc">TechText-inspired animated name: a selection frame scans dashed letter outlines with blinking pixel accents.</desc>
+  <style>
+    .letter { fill: #e6edf3; stroke: #e6edf3; stroke-width: 1; stroke-dasharray: 4 2; animation: outline 8s linear infinite; }
+    @keyframes outline { 0%, 7% { fill: transparent; stroke: #53efb1; } 10%, 100% { fill: #e6edf3; stroke: transparent; } }
+    .scan { animation: scan 8s linear infinite; }
+    @keyframes scan { 0% { transform: translateX(0); } 92%, 100% { transform: translateX(720px); } }
+    .pixel { animation: blink 1.2s steps(2,end) infinite; }
+    @keyframes blink { 0%,100% { opacity: .15; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .letter,.scan,.pixel { animation: none; } .letter { stroke: none; } .scan { display: none; } }
+  </style>
+  <rect width="960" height="240" rx="16" fill="#0d1117"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="64" font-weight="700" text-anchor="middle">
+    <text class="letter" x="120" y="143" style="animation-delay: 0.000s">A</text>
+    <text class="letter" x="180" y="143" style="animation-delay: 0.613s">S</text>
+    <text class="letter" x="240" y="143" style="animation-delay: 1.227s">H</text>
+    <text class="letter" x="300" y="143" style="animation-delay: 1.840s">U</text>
+    <text class="letter" x="360" y="143" style="animation-delay: 2.453s">T</text>
+    <text class="letter" x="420" y="143" style="animation-delay: 3.067s">O</text>
+    <text class="letter" x="480" y="143" style="animation-delay: 3.680s">S</text>
+    <text class="letter" x="540" y="143" style="animation-delay: 4.293s">H</text>
+    <text class="letter" x="660" y="143" style="animation-delay: 5.520s">D</text>
+    <text class="letter" x="720" y="143" style="animation-delay: 6.133s">I</text>
+    <text class="letter" x="780" y="143" style="animation-delay: 6.747s">X</text>
+    <text class="letter" x="840" y="143" style="animation-delay: 7.360s">I</text>
+    <text class="letter" x="900" y="143" style="animation-delay: 7.973s">T</text>
+  </g>
+  <g class="scan" fill="none" stroke="#53efb1" stroke-width="1">
+    <rect x="94" y="88" width="52" height="66" stroke-opacity=".65"/>
+    <path d="M90 92v-8h8 M142 84h8v8 M90 150v8h8 M142 158h8v-8"/>
+    <path d="M120 158v17h24" stroke-opacity=".5"/>
+    <text x="148" y="179" fill="#53efb1" stroke="none" font-family="monospace" font-size="10">GLYPH / 64 PX</text>
+    <g fill="#53efb1" stroke="none">
+      <rect class="pixel" x="80" y="99" width="3" height="3"/>
+      <rect class="pixel" x="157" y="108" width="5" height="5" style="animation-delay: -.4s"/>
+      <rect class="pixel" x="139" y="70" width="3" height="3" style="animation-delay: -.8s"/>
+      <rect class="pixel" x="84" y="164" width="4" height="4" style="animation-delay: -.6s"/>
+      <rect class="pixel" x="161" y="147" width="2" height="2" style="animation-delay: -.2s"/>
+    </g>
+  </g>
+</svg>
