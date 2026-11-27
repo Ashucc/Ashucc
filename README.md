@@ -2,55 +2,54 @@
 
 ![ASHUTOSH DIXIT — green particle animation](./particle-name.svg)
 
+![Exploring Web Development, Cybersecurity, and Artificial Intelligence](./rotating-text.svg)
+
 </div>
 
-<br>
+## About Me
 
-## 🧭 About Me
-
-<table>
-<tr>
-<td>
-
-I'm currently pursuing a **B.Tech in Cybersecurity**, working at the intersection of three domains I'm most drawn to:
-
-- 🌐 **Web Development**
-- 🔐 **Cybersecurity**
-- ✨ **Artificial Intelligence**
+I'm pursuing a **B.Tech in Cybersecurity**, with a focus on **web development, cybersecurity, and artificial intelligence**.
 
 My goal is simple: build technology that is **practical, intelligent, secure, and scalable**.
 
-</td>
-</tr>
-</table>
-
-## 🚀 Project-ELIZA · 30 Days · 30 AI Projects
+## Project-ELIZA
 
 ![Project-ELIZA — decrypted text animation](./project-eliza.svg)
 
-**One day. One AI project.** Project-ELIZA is my 30-day challenge to build 30 practical AI projects, sharing the code, experiments, and lessons learned along the way.
+**30 Days · 30 AI Projects** — Building one practical AI project a day and sharing the code, experiments, and lessons along the way.
 
-<br>
+## Experience
 
----
+### Fullstack Developer · Gremio Technologies
 
-## 💼 Experience
+![Frontend](https://img.shields.io/badge/Frontend-24352D?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-24352D?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-24352D?style=flat-square)
 
-### 💻 Fullstack Developer — Gremio Technologies
+Solo developer working across the frontend and backend of **LMS, EMS, and ERP** applications, with experience integrating **AI into EMS**.
 
-I'm working as the solo developer on **LMS, EMS, and ERP** applications, handling both frontend and backend development. I've also worked on **AI integration in EMS**.
+### Python Developer · Yash Industries
 
-### 🐍 Python Developer — Yash Industries
+![Python](https://img.shields.io/badge/Python-24352D?style=flat-square)
+![Django](https://img.shields.io/badge/Django-24352D?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-24352D?style=flat-square)
+![PyWin](https://img.shields.io/badge/PyWin-24352D?style=flat-square)
 
-Developed my skills in **Python**, learning and working with tools and frameworks including **Django, PyTorch, and PyWin**.
+Developed my Python skills through hands-on learning and work with **Django, PyTorch, and PyWin**.
 
-### 🚓 Cyber Police Internship
-`[INTERNSHIP DURATION]` · `[LOCATION / DEPARTMENT]`
+### Cyber Police Intern
 
-During my internship with the **Cyber Police**, I gained hands-on exposure to cybersecurity operations, cybercrime-related casework, and real-world technical problem solving — bridging the gap between classroom theory and applied security practice.
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-24352D?style=flat-square)
+![Technical Problem Solving](https://img.shields.io/badge/Technical_Problem_Solving-24352D?style=flat-square)
 
-**Key contributions:**
+Gained practical exposure to cybersecurity operations and cybercrime-related casework.
 
-- 🖼️ **Selfie-Based Attendance Marker** — Worked on a selfie-based attendance marking system as part of internal process improvement, applying practical technical problem-solving to a real operational need.
-- 💰 **Financial Recovery Assistance** — Assisted in a case that led to the successful recovery of approximately **₹56,000** for an affected individual.
-- 🛡️ **Operation Thunder** — Participated as an active member in Operation Thunder, an anti-drug operation.
+- Worked on a **selfie-based attendance system** for internal process improvement.
+- Assisted with financial recovery for a cybercrime victim.
+- Participated as an active member in **Operation Thunder**, an anti-drug operation.
+
+## Achievements
+
+- **₹56,000 recovered** — Helped recover approximately ₹56,000 for a victim during my Cyber Police internship.
+- **Best Project · 1st Prize** — Won the Best Project award and a **₹10,000 cash prize**.
+- **Started Project-ELIZA** — Launched my **30 Days · 30 AI Projects** challenge to learn and build in public.
