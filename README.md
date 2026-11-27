@@ -2,8 +2,6 @@
 
 ![ASHUTOSH DIXIT — green particle animation](./particle-name.svg)
 
-![Exploring Web Development, Cybersecurity, and Artificial Intelligence](./rotating-text.svg)
-
 </div>
 
 ## About Me
@@ -53,3 +51,5 @@ Gained practical exposure to cybersecurity operations and cybercrime-related cas
 - **₹56,000 recovered** — Helped recover approximately ₹56,000 for a victim during my Cyber Police internship.
 - **Best Project · 1st Prize** — Won the Best Project award and a **₹10,000 cash prize**.
 - **Started Project-ELIZA** — Launched my **30 Days · 30 AI Projects** challenge to learn and build in public.
+
+![Exploring Web Development, Cybersecurity, and Artificial Intelligence](./rotating-text.svg)

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="90" viewBox="0 0 960 90" role="img" aria-labelledby="title desc">
   <title id="title">Exploring web development, cybersecurity, and artificial intelligence</title>
-  <desc id="desc">RotatingText-inspired upward sliding text on a muted green highlight.</desc>
+  <desc id="desc">RotatingText-inspired upward sliding text on a dark red highlight.</desc>
   <style>
     .word { opacity: 0; animation: rotate 9s ease-in-out infinite; }
     .first { animation-delay: -0.4s; }
@@ -19,9 +19,9 @@
   <defs><clipPath id="window"><rect x="377" y="24" width="380" height="42" rx="8"/></clipPath></defs>
   <rect width="960" height="90" rx="12" fill="#0d1117"/>
   <g font-family="Arial, sans-serif" font-size="25">
-    <text x="217" y="54" fill="#a8b5ae">Exploring</text>
-    <rect x="377" y="18" width="380" height="54" rx="8" fill="#24352d"/>
-    <g clip-path="url(#window)" fill="#8fe3b1" font-weight="600" text-anchor="middle">
+    <text x="217" y="54" fill="#b9aaaa">Exploring</text>
+    <rect x="377" y="18" width="380" height="54" rx="8" fill="#641e26"/>
+    <g clip-path="url(#window)" fill="#ffe4e6" font-weight="600" text-anchor="middle">
       <text class="word first" x="567" y="54">Web Development</text>
       <text class="word second" x="567" y="54">Cybersecurity</text>
       <text class="word third" x="567" y="54">Artificial Intelligence</text>
